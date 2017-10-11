@@ -1,0 +1,11 @@
+in host project 
+right click on project
+add reference
+> projetcs
+- select project (it will be listed)
+
+
+
+create client
+add sevice reference
+click discover and select press ok
